@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.sachin {
+  padding: 10px;
+  marigin: 10px;
+}
+.amma {
+  background-color: aqua;
+  min-height: 100vh;
+}
